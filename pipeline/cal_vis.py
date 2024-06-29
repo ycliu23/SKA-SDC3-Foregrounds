@@ -14,7 +14,7 @@ Description: Fourier transform image cube to gridded visibilities followed by PS
 from ps_eor import datacube, pspec
 import numpy as np
 import matplotlib
-import matplotlib.pyplot as plt
+# import matplotlib.pyplot as plt
 import astropy.constants as const
 import os
 from multiprocessing import Process

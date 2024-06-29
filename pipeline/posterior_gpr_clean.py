@@ -14,7 +14,7 @@ Description: Gaussian process regression foreground cleaning based on the MCMC-s
 import numpy as np
 import GPy
 from ps_eor import datacube
-import h5py
+# import h5py
 import os
 from anesthetic import read_chains
 from multiprocessing import Process

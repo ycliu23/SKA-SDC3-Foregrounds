@@ -15,11 +15,11 @@ from ps_eor import datacube, pspec, psutil
 import numpy as np
 import matplotlib
 import matplotlib.pyplot as plt
-import astropy.constants as const
+# import astropy.constants as const
 from scipy import stats
 import os
 from multiprocessing import Process
-import sys
+# import sys
 import re
 
 font = {'size':12}

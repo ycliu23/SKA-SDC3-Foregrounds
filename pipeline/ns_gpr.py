@@ -14,8 +14,8 @@ Description: Nested sampling of the GPR model parameters
 import numpy as np
 from ps_eor import datacube
 import GPy
-from astropy.io import fits
-import astropy.constants as const
+# from astropy.io import fits
+# import astropy.constants as const
 import pypolychord
 from pypolychord.settings import PolyChordSettings
 from pypolychord.priors import UniformPrior
